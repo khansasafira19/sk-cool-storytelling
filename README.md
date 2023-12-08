@@ -2,11 +2,11 @@
 Full Source Code for Data Storytelling with HTML5
 
 ## DESCRIPTION
-This is a completely free source code for a web-based Data Storytelling. I used [slides template from freehtml5.co](https://freehtml5.co/slides-free-responsive-horizontal-slides-template/) and did some touchups. The data displayed in the app was derived from https://bengkulu.bps.go.id/.
+This is a completely free source code for web-based Data Storytelling. I used [slides template from freehtml5.co](https://freehtml5.co/slides-free-responsive-horizontal-slides-template/) and did some touchups. The data displayed in the app was derived from https://bengkulu.bps.go.id/.
 
 The features this app has are as follows:
 1. Smooth storytelling with jQuery effect
-2. Line charts and bar chart appearing in popup dialog
+2. Line charts and bar charts appearing in the popup dialog
 3. Bilingual feature, switch from Indonesian to English, visa versa
 
 ## HOW TO ENJOY
